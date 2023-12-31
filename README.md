@@ -29,3 +29,5 @@ define('SITE_URL', '网站域名');      //输入你苹果CMS10的网站主域�
 ![手机底部导航设置](https://yh-1303099773.cos.accelerate.myqcloud.com/SP/README/2023n12y31r2.png)
 成果：
 ![手机底部导航](https://yh-1303099773.cos.accelerate.myqcloud.com/SP/README/2023n12y31r3.png)
+
+完工
